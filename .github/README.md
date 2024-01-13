@@ -23,3 +23,6 @@ Dr Koorosh Aslansefat
 [1] Čartolovni, Anto, Ana Tomičić, and Elvira Lazić Mosler. "Ethical, legal, and social considerations of AI-based medical decision-support tools: A scoping review." International Journal of Medical Informatics 161 (2022): 104738.<br>
 [2] Grootendorst, Maarten. "BERTopic: Neural topic modeling with a class-based TF-IDF procedure." arXiv preprint arXiv:2203.05794 (2022).
 [3] Grootendorst, Maarten. “Topic Modeling with Llama 2.” Medium, 12 Oct. 2023, towardsdatascience.com/topic-modeling-with-llama-2-85177d01e174. Accessed 10 Jan. 2024.
+
+## Related Projects
+[LitStudy: a Python package that enables analysis of scientific literature from the comfort of a Jupyter notebook.](https://github.com/NLeSC/litstudy)
