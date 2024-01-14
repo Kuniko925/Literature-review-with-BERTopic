@@ -9,6 +9,9 @@
 ## Project Description
 Fairness in AI is getting a significant presence in AI ethics. Fairness is positioned third in a prevailing ethical issue ranking [1], and the EU allocated it as one of the seven criteria for trustworthiness in their guideline. Meanwhile, the word "Fairness" is broadly used in numerous cross-discipline fields, not only in the AI field. Consequently, it makes searching the target literature complex to investigate fairness even with concurrence words such as AI, machine learning, and deep learning. We employed topic modelling, BERTopic which assembles embedding, reducing dimentionality, clustering and class-based TF-IDF and automated a part of the literature review process [2].
 
+## Getting Started
+To start understanding how the code works, you can search your topic in Web of Science and download the list of results as CSV file and use [this](https://github.com/Kuniko925/Literature-review-with-BERTopic/blob/main/Notebooks/literature-review-with-fair-and-equality.ipynb) Notebook.
+
 <a id = "FP"></a>
 ## Future Direction
 BERTopic functioned along with Llama 2 and can be applied in the topic representation process [3].  Using LLM for the summarisation and sentimental analysis between embedded documents and reductional dimensions, we would like to create hierarchical sentence vectorization to analyze latent topics more sophisticatedly by highlighting the context and nuance.
